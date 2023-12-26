@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    
     <style>
         /* Define custom styles for enhanced formatting */
         body {
